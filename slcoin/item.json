@@ -1,0 +1,22 @@
+[
+{"coin_type": "BTC", "coin_money": "$7,595.69", "time": "2018-08-01 18-56-13"},
+{"coin_type": "BCH", "coin_money": "$764.42", "time": "2018-08-01 18-56-13"},
+{"coin_type": "MKR", "coin_money": "$583.55", "time": "2018-08-01 18-56-13"},
+{"coin_type": "YBC", "coin_money": "$959.08", "time": "2018-08-01 18-56-13"},
+{"coin_type": "PBT", "coin_money": "$3,258.38", "time": "2018-08-01 18-56-13"},
+{"coin_type": "ETH", "coin_money": "$422.89", "time": "2018-08-01 18-56-13"},
+{"coin_type": "ZEC", "coin_money": "$201.55", "time": "2018-08-01 18-56-13"},
+{"coin_type": "XIN", "coin_money": "$413.56", "time": "2018-08-01 18-56-13"},
+{"coin_type": "DCR", "coin_money": "$55.11", "time": "2018-08-01 18-56-13"},
+{"coin_type": "DGD", "coin_money": "$81.50", "time": "2018-08-01 18-56-13"},
+{"coin_type": "AU", "coin_money": "$40.61", "time": "2018-08-01 18-56-13"},
+{"coin_type": "NEO", "coin_money": "$29.73", "time": "2018-08-01 18-56-13"},
+{"coin_type": "VERI", "coin_money": "$40.23", "time": "2018-08-01 18-56-13"},
+{"coin_type": "CYT", "coin_money": "$29.34", "time": "2018-08-01 18-56-13"},
+{"coin_type": "TIME", "coin_money": "$10.63", "time": "2018-08-01 18-56-13"},
+{"coin_type": "GAS", "coin_money": "$8.91", "time": "2018-08-01 18-56-13"},
+{"coin_type": "GAM", "coin_money": "$5.07", "time": "2018-08-01 18-56-13"},
+{"coin_type": "BCAP", "coin_money": "$2.62", "time": "2018-08-01 18-56-15"},
+{"coin_type": "MTL", "coin_money": "$1.11", "time": "2018-08-01 18-56-15"},
+{"coin_type": "PLU", "coin_money": "$4.03", "time": "2018-08-01 18-56-15"}
+]

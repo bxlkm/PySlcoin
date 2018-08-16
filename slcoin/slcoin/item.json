@@ -1,0 +1,22 @@
+[
+{"coin_type": "XMR", "coin_money": "124", "time": "2018-08-02 19-25-12", "coin_upDown": "1.61%"},
+{"coin_type": "BTC", "coin_money": "7574", "time": "2018-08-02 19-25-12", "coin_upDown": "-0.02%"},
+{"coin_type": "EOS", "coin_money": "7.09", "time": "2018-08-02 19-25-12", "coin_upDown": "-3.63%"},
+{"coin_type": "LTC", "coin_money": "77.19", "time": "2018-08-02 19-25-12", "coin_upDown": "-1.41%"},
+{"coin_type": "ETH", "coin_money": "417", "time": "2018-08-02 19-25-12", "coin_upDown": "-1.83%"},
+{"coin_type": "NEO", "coin_money": "28.78", "time": "2018-08-02 19-25-12", "coin_upDown": "-3.57%"},
+{"coin_type": "ETC", "coin_money": "15.05", "time": "2018-08-02 19-25-12", "coin_upDown": "-6.12%"},
+{"coin_type": "BNB", "coin_money": "13.63", "time": "2018-08-02 19-25-12", "coin_upDown": "0.58%"},
+{"coin_type": "HT", "coin_money": "2.93", "time": "2018-08-02 19-25-12", "coin_upDown": "-4.06%"},
+{"coin_type": "VEN", "coin_money": "1.91", "time": "2018-08-02 19-25-12", "coin_upDown": "-9.74%"},
+{"coin_type": "ZEC", "coin_money": "193", "time": "2018-08-02 19-25-12", "coin_upDown": "-5.29%"},
+{"coin_type": "DCR", "coin_money": "58.29", "time": "2018-08-02 19-25-12", "coin_upDown": "5.82%"},
+{"coin_type": "MKR", "coin_money": "566", "time": "2018-08-02 19-25-12", "coin_upDown": "-4.33%"},
+{"coin_type": "REP", "coin_money": "29.92", "time": "2018-08-02 19-25-12", "coin_upDown": "3.49%"},
+{"coin_type": "ZEN", "coin_money": "25.57", "time": "2018-08-02 19-25-12", "coin_upDown": "-2.2%"},
+{"coin_type": "GXS", "coin_money": "2.48", "time": "2018-08-02 19-25-12", "coin_upDown": "-0.77%"},
+{"coin_type": "EMC", "coin_money": "2.72", "time": "2018-08-02 19-25-12", "coin_upDown": "6.54%"},
+{"coin_type": "VERI", "coin_money": "37.76", "time": "2018-08-02 19-25-12", "coin_upDown": "0.67%"},
+{"coin_type": "FCT", "coin_money": "7.8", "time": "2018-08-02 19-25-12", "coin_upDown": "-2.11%"},
+{"coin_type": "XZC", "coin_money": "13.68", "time": "2018-08-02 19-25-12", "coin_upDown": "-2.44%"}
+]
