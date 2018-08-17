@@ -16,9 +16,3 @@ class SlcoinItem(scrapy.Item):
     time = scrapy.Field()
     coin_upDown = scrapy.Field()
 
-
-class AvatarItem(scrapy.Item):
-    coin_type = scrapy.Field()
-    coin_money = scrapy.Field()
-    time = scrapy.Field()
-    coin_upDown = scrapy.Field()
